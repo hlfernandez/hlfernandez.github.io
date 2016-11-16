@@ -299,3 +299,8 @@ p {
 }
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
+
+.centered {
+	display: block;
+	margin: 0 auto;
+}
