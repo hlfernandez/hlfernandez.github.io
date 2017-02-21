@@ -301,6 +301,12 @@ p {
 /* Ex-Large devices (large desktops, 1200px and up) */
 
 .centered {
-	display: block;
-	margin: 0 auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.publication_badge {
+    max-height: 16px;
+    border-top: 1px solid transparent;
+    vertical-align: top;
 }
