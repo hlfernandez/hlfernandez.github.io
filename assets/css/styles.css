@@ -312,3 +312,19 @@ p {
     border-top: 1px solid transparent;
     vertical-align: top;
 }
+
+.specialization {
+    border-top: 1px dashed lightblue;
+    border-bottom: 1px dashed lightblue;
+    margin-bottom: 25px;
+}
+
+.no-bottom-border {
+    border-bottom: none;
+}
+
+.specialization .header {
+    text-align: center;
+    font-style: italic;
+    padding-top: 10px;
+}
